@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Different types of Algorithms",
+  "main": "string-operations.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node string-operations.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimoNonnis/algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimoNonnis/algorithms/issues"
+  },
+  "homepage": "https://github.com/SimoNonnis/algorithms#readme"
+}
